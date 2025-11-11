@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="yaap"
+           fetch="https://github.com/yaap"
+           revision="refs/heads/sixteen" />
+
+  <project path="hardware/lineage/compat" name="hardware_lineage_compat" remote="yaap" />
+  <project path="hardware/lineage/interfaces" name="hardware_lineage_interfaces" remote="yaap" />
+  <project path="device/lineage/sepolicy" name="device_lineage_sepolicy" remote="yaap" />
+</manifest>
