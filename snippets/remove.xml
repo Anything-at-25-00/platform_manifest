@@ -9,4 +9,5 @@
   <remove-project name="device/linaro/hikey-kernel" />
   <remove-project name="device/sample" />
   <remove-project name="platform/build" />
+  <remove-project name="platform/frameworks/native" />
 </manifest>
